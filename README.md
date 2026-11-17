@@ -35,9 +35,3 @@
 <p data-importer="text" align="left">I'm Derek<br><br>I only know that I know nothing.<br><br>- 📚 I'm currently learning ATC<br>- ⚡ In my free time I play videogames</p>
 
 ###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM3Zm5leWV4OTZ6OHBia3ZucXlmNWE3eDRyNWd1bmF4eDRkcTc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jtDEDcqMjDVODssiEs/giphy.gif"  />
-</div>
-
-###
